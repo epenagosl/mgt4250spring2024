@@ -52,11 +52,11 @@ When reading this article we can see that there are issues from thrid parties wh
 
 Answers of my questions from ChatGPT: 
 
-###1. Most Sold Goods in E-Commerce:
+### 1. Most Sold Goods in E-Commerce:
 The most sold goods through e-commerce can vary based on several factors including market trends, consumer preferences, and the nature of the e-commerce platform. However, some of the consistently top-selling categories include electronics, clothing and apparel, beauty and personal care products, home goods, and consumer electronics. These categories typically encompass a wide range of products and tend to have high demand among online shoppers.
 
-###2. Countries with the Most E-Commerce Activity:
+### 2. Countries with the Most E-Commerce Activity:
 The countries with the highest e-commerce activity often include major economies with large populations and developed digital infrastructures. As of my last update, some of the top countries in terms of e-commerce activity include the United States, China, the United Kingdom, Japan, and Germany. However, e-commerce is a rapidly growing sector globally, and countries in regions like Southeast Asia and Latin America are also experiencing significant growth in e-commerce activity.
 
-###3.E-Commerce Growth from 2018 to 2019:
+### 3.E-Commerce Growth from 2018 to 2019:
 E-commerce has been experiencing steady growth over the years due to factors such as increasing internet penetration, rising smartphone usage, and shifting consumer preferences towards online shopping. While specific growth rates can vary by region and market segment, overall, e-commerce saw substantial growth between 2018 and 2019. According to various reports and studies, global e-commerce sales grew by approximately 14% to 20% during this period, demonstrating the continued expansion of the e-commerce market worldwide.
