@@ -23,12 +23,19 @@ When accecing the data which is in an excel file, you will need to go to Github 
 ## Data Types and Descriptions: 
 1. For all visualizations, there are different data types that were used. For the visualization "Quantity sold by Country", we are using the Country into rows which is a string, and we are pairing it with the sum of quantity which is a number.
 2. For the visualization "#Products sold", we are using the sum of quantity again and we are mathing is with product name on the rows which is a string in order to make a table.
-3. For the third visualization in the first Dashboard, "Sum of price change Q2019" we are using the sum of price which is a number as a decimal in the rows, and we are pairing it with Date down to the quaterly date to show the different quarters of the year. The type of this data is Date.
+3. For the third visualization in the first Dashboard, "Sum of quantity sold change Q2019" we are using the sum of quantity which is a number as a whole in the rows, and we are pairing it with Date down to the quaterly date to show the different quarters of the year. The type of this data is Date.
 4. The first visualization for the second Dashboard called "Country quantity sold" I am using the country data for the label which is a string, and pairing it with the sum of the quantity. I am making a tree map for this visualization.
 5. For "Product sold in United Kingdom" I am putting Country and Product name which are both strings into the rows and the Sum of the quantity for the labels.
 6. For the last visualization "Popcorn Holder Sum Sales" I am using the Data for the columns in a quaterly view, the sunm of price which is a number in as a decimal in the rows and I have filtered to show only the sales in the United Kingdom.
 
-  
+# Interpreting Visualizations: Section 3
+For Dashboard 1 there are three visualizations:
+1. Quantity sold by Country gives us an understanding to see what countries have the highest e-commerce sales. We can see the country and the quantity of products sold in each of them. By doing this, we can see what countries, and even companies have the best services and technology for e-commerce. It can also tell us if people in certain regions are more incline to buy products through e-commerce. Looking at the table, which we gave colors to determine the quantity, blue being higher and dark red being the lowest, we see that the Uniked Kingdom has a clear lead on the e-commerce world. We aslo see that in the top 10 countries, 8 of them are in Europe. That makes us think that maybe people in Europe are more incline to e-commerce? Maybe the platform and technology in European companies is better for e-commerce?
+2. The second visualization #Products sold helps us to know whic products are sold the most through e-commerce. Based on the data and the visualization we see that Popcorn Holders is the product that is sold the most with 56,450 pieces sold. The table is filtered so in top are the items with the most units sold. This can help compnaies know what people want to buy through e-commerce and it can help them with inventory issues and sales forecasting.
+3. The third visualization for the first Dashboard is Sum of quantity sold change Q2019, which shows us the amount of products sold in each quarter in 2019 through e-commerce. This is a great way to see if the e-commerce sales are increasing or decreasing. By knowing this, we are able to predict future years demand, and companies are able to shift their production accordignly. The visualization is telling us that the quantity of products is contantly increasing and the e-commerce business is growing.
+
+For Dashboard 2 there ate three visualizations: 
+1. Country quanity sold 
 
 [Elon University(https://elon.edu)]
 <img width="290" alt="Screenshot 2024-05-02 at 2 53 38 PM" src="https://github.com/epenagosl/mgt4250spring2024/assets/168772735/53de15c1-7bb5-47b5-9136-12a9079601d7">
