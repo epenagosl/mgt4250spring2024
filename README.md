@@ -19,6 +19,8 @@ https://public.tableau.com/app/profile/esteban.penagos/vizzes
 
 # Data Description and Upload: Section 2
 When accecing the data which is in an excel file, you will need to go to Github and in my respository access the file called "sales Transaction v.4a.xlsx. That document will give you access to an excel workbook with all the raw data used to create the visulizations.
+In order to find this data I went into keggle and found data regarding E-commerce. the following link will take you to the page where i got the data from and I scrolled down to where it says Sales Transaction v.4a.csv, and i downloaded that data frame. 
+https://www.kaggle.com/datasets/gabrielramos87/an-online-shop-business
 
 ## Data Types and Descriptions: 
 1. For all visualizations, there are different data types that were used. For the visualization "Quantity sold by Country", we are using the Country into rows which is a string, and we are pairing it with the sum of quantity which is a number.
