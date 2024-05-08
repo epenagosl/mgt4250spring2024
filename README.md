@@ -33,8 +33,14 @@ For Dashboard 1 there are three visualizations:
 2. The second visualization #Products sold helps us to know whic products are sold the most through e-commerce. Based on the data and the visualization we see that Popcorn Holders is the product that is sold the most with 56,450 pieces sold. The table is filtered so in top are the items with the most units sold. This can help compnaies know what people want to buy through e-commerce and it can help them with inventory issues and sales forecasting.
 3. The third visualization for the first Dashboard is Sum of quantity sold change Q2019, which shows us the amount of products sold in each quarter in 2019 through e-commerce. This is a great way to see if the e-commerce sales are increasing or decreasing. By knowing this, we are able to predict future years demand, and companies are able to shift their production accordignly. The visualization is telling us that the quantity of products is contantly increasing and the e-commerce business is growing.
 
-For Dashboard 2 there ate three visualizations: 
-1. Country quanity sold is helping us kn ow with a tree map which are the countries with the highest quantity of products sold. By applying a filter into the tree map so everytime we choose a different country the next two visualizations load for that specific country helps us know what are the products that are sold the most in that specific country. That is a good measure for compnaies to seewhat are the products that people in their specific country like to purchase the most through e-commerce. They might be able to do better marketing for that specific product.  
+For Dashboard 2 there are two visualizations which go hand in hand: 
+1. Country quantity sold is helping us know with a tree map which are the countries with the highest quantity of products sold. By applying a filter into the tree map so everytime we chose a different country the other visualization loads for that specific country helps us know what are the products that are sold the most in that specific place. That is a good measure for companies to see what products people in their specific country like to purchase the most through e-commerce. They might be able to do better marketing for that specific product.
+2. For the second visualization, Product sold by Country, we have a table with the country, the product name that each country sells, on top being the highest quantity, and the number amount of the product. I placed a filter so when we chose a country, the table filters that country and we are able to see the product and the number amount sold for that specific product. Like this we are able to see which is the top product for every country and how much they have sold of that product.
+
+With all visualizations woking together, we are able to answer all questions and go beyond them. Companies are able to make predictions based on next quarter/year demand for each product they sell and they are able to see it from an e-commerce perspective.
+
+# Discussion & Summary: Section 4
+
 
 [Elon University(https://elon.edu)]
 <img width="290" alt="Screenshot 2024-05-02 at 2 53 38 PM" src="https://github.com/epenagosl/mgt4250spring2024/assets/168772735/53de15c1-7bb5-47b5-9136-12a9079601d7">
