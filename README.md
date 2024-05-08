@@ -50,7 +50,7 @@ With all visualizations woking together, we are able to answer all questions and
 Article Summary: The article that I found that relates to my topic is: https://cloudqa.io/reasons-ecommerce-monitoring-is-important/
 When reading this article we can see that there are issues from thrid parties when customers want to buy products online. Some of those problems is when the website slows down or mulfunctions. By having a better website when knowing how many useres might be browsing on it daily, companies are better suited to imporve their delevering quality when shopping. By using e-commerce, compnaies are able to have a basiline performance. What this measn is that they are able to see how many people are scrolling through their website and looking at their products. By knowing how many people actually buy their products, they are able to see the difference between people who are tempted and people who actually buy the product. They are able to make changes and try to capture those customers who did not buy their products. 
 
-Answers of my questions from ChatGPT: 
+## Answers of my questions from ChatGPT: 
 
 ### 1. Most Sold Goods in E-Commerce:
 The most sold goods through e-commerce can vary based on several factors including market trends, consumer preferences, and the nature of the e-commerce platform. However, some of the consistently top-selling categories include electronics, clothing and apparel, beauty and personal care products, home goods, and consumer electronics. These categories typically encompass a wide range of products and tend to have high demand among online shoppers.
