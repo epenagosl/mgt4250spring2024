@@ -25,8 +25,7 @@ When accecing the data which is in an excel file, you will need to go to Github 
 2. For the visualization "#Products sold", we are using the sum of quantity again and we are mathing is with product name on the rows which is a string in order to make a table.
 3. For the third visualization in the first Dashboard, "Sum of quantity sold change Q2019" we are using the sum of quantity which is a number as a whole in the rows, and we are pairing it with Date down to the quaterly date to show the different quarters of the year. The type of this data is Date.
 4. The first visualization for the second Dashboard called "Country quantity sold" I am using the country data for the label which is a string, and pairing it with the sum of the quantity. I am making a tree map for this visualization.
-5. For "Product sold in United Kingdom" I am putting Country and Product name which are both strings into the rows and the Sum of the quantity for the labels.
-6. For the last visualization "Popcorn Holder Sum Sales" I am using the Data for the columns in a quaterly view, the sunm of price which is a number in as a decimal in the rows and I have filtered to show only the sales in the United Kingdom.
+5. For "Product sold by Country" I am putting Country and Product name which are both strings into the rows and the Sum of the quantity for the labels.
 
 # Interpreting Visualizations: Section 3
 For Dashboard 1 there are three visualizations:
@@ -35,7 +34,7 @@ For Dashboard 1 there are three visualizations:
 3. The third visualization for the first Dashboard is Sum of quantity sold change Q2019, which shows us the amount of products sold in each quarter in 2019 through e-commerce. This is a great way to see if the e-commerce sales are increasing or decreasing. By knowing this, we are able to predict future years demand, and companies are able to shift their production accordignly. The visualization is telling us that the quantity of products is contantly increasing and the e-commerce business is growing.
 
 For Dashboard 2 there ate three visualizations: 
-1. Country quanity sold 
+1. Country quanity sold is helping us kn ow with a tree map which are the countries with the highest quantity of products sold. By applying a filter into the tree map so everytime we choose a different country the next two visualizations load for that specific country helps us know what are the products that are sold the most in that specific country. That is a good measure for compnaies to seewhat are the products that people in their specific country like to purchase the most through e-commerce. They might be able to do better marketing for that specific product.  
 
 [Elon University(https://elon.edu)]
 <img width="290" alt="Screenshot 2024-05-02 at 2 53 38 PM" src="https://github.com/epenagosl/mgt4250spring2024/assets/168772735/53de15c1-7bb5-47b5-9136-12a9079601d7">
