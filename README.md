@@ -17,6 +17,9 @@ These questions are important because
 This link will take you to Tableau Public where wou will be able to see two dashboards with my visualizations for the class project of MGT 4250 at Elon University
 https://public.tableau.com/app/profile/esteban.penagos/vizzes
 
+# Data Description and Upload: Section 2
+# When accecing the data which is in an excel file, you will need to go to Github and 
+
 [Elon University(https://elon.edu)]
 <img width="290" alt="Screenshot 2024-05-02 at 2 53 38 PM" src="https://github.com/epenagosl/mgt4250spring2024/assets/168772735/53de15c1-7bb5-47b5-9136-12a9079601d7">
 
