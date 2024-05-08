@@ -21,7 +21,14 @@ https://public.tableau.com/app/profile/esteban.penagos/vizzes
 When accecing the data which is in an excel file, you will need to go to Github and in my respository access the file called "sales Transaction v.4a.xlsx. That document will give you access to an excel workbook with all the raw data used to create the visulizations.
 
 ## Data Types and Descriptions: 
-For all visualizations, there are different data types that were used. For the visualization "Quantity sold by Country", we are using the Country into rows which is a string, and we are pairing it with the sum of quantity which is a number. For the visualization "#Products sold", we are using the sum of quantity again and we are mathing is with product name on the rows which is a string in order to make a table. For the third visualization in the first Dashboard, "Sum of price change Q2019" we are using the sum of price which is a number as a decimal in the rows, and we are pairing it with Date down to the quaterly date to show the different quarters of the year. The type of this data is Date. 
+1. For all visualizations, there are different data types that were used. For the visualization "Quantity sold by Country", we are using the Country into rows which is a string, and we are pairing it with the sum of quantity which is a number.
+2. For the visualization "#Products sold", we are using the sum of quantity again and we are mathing is with product name on the rows which is a string in order to make a table.
+3. For the third visualization in the first Dashboard, "Sum of price change Q2019" we are using the sum of price which is a number as a decimal in the rows, and we are pairing it with Date down to the quaterly date to show the different quarters of the year. The type of this data is Date.
+4. The first visualization for the second Dashboard called "Country quantity sold" I am using the country data for the label which is a string, and pairing it with the sum of the quantity. I am making a tree map for this visualization.
+5. For "Product sold in United Kingdom" I am putting Country and Product name which are both strings into the rows and the Sum of the quantity for the labels.
+6. For the last visualization "Popcorn Holder Sum Sales" I am using the Data for the columns in a quaterly view, the sunm of price which is a number in as a decimal in the rows and I have filtered to show only the sales in the United Kingdom.
+
+  
 
 [Elon University(https://elon.edu)]
 <img width="290" alt="Screenshot 2024-05-02 at 2 53 38 PM" src="https://github.com/epenagosl/mgt4250spring2024/assets/168772735/53de15c1-7bb5-47b5-9136-12a9079601d7">
