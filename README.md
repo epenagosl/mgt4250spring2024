@@ -1,7 +1,7 @@
 # MGT 4250 Spring 2024 Course Project
 Author: Esteban Penagos (epenagos@elon.edu)
 
-## Project description
+## Project description: Section 1
 ### Questions of interest
 - Which goods are sold the most through E-Commerce?
 - What are the countries with the most E-Commerce activity? 
@@ -13,7 +13,7 @@ These questions are important because
 3. The results could give us a good idea of the potential upcoming year growth.
 
 
-# Link that will take you to Tableau Public
+## Link that will take you to Tableau Public
 This link will take you to Tableau Public where wou will be able to see two dashboards with my visualizations for the class project of MGT 4250 at Elon University
 https://public.tableau.com/app/profile/esteban.penagos/vizzes
 
