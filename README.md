@@ -47,11 +47,5 @@ For Dashboard 2 there are two visualizations which go hand in hand:
 With all visualizations woking together, we are able to answer all questions and go beyond them. Companies are able to make predictions based on next quarter/year demand for each product they sell and they are able to see it from an e-commerce perspective.
 
 # Discussion & Summary: Section 4
+The article that I found that relates to my topic is: https://cloudqa.io/reasons-ecommerce-monitoring-is-important/
 
-
-[Elon University(https://elon.edu)]
-<img width="290" alt="Screenshot 2024-05-02 at 2 53 38 PM" src="https://github.com/epenagosl/mgt4250spring2024/assets/168772735/53de15c1-7bb5-47b5-9136-12a9079601d7">
-
-```python
-import pandas as pd
-```
