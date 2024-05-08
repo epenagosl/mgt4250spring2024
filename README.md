@@ -13,6 +13,8 @@ These questions are important because
 3. The results could give us a good idea of the potential upcoming year growth.
 
 
+# Link that will take you to Tableau Public
+This link will take you to Tableau Public where wou will be able to see two dashboards with my visualizations for the class project of MGT 4250 at Elon University
 https://public.tableau.com/app/profile/esteban.penagos/vizzes
 
 [Elon University(https://elon.edu)]
